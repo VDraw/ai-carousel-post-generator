@@ -1,7 +1,7 @@
 # VDraw - AI-Powered Carousel Post Generator 📲🧠
 
 🔗 **Live Website**: [https://vdraw.ai](https://vdraw.ai)  
-📦 **GitHub Repository**: [https://github.com/wangshiwei/vdraw-ai](https://github.com/wangshiwei/vdraw-ai)
+📦 **GitHub Repository**: [https://github.com/VDraw](https://github.com/VDraw)
 
 ---
 
@@ -66,7 +66,7 @@ This GitHub repository is intended to:
 For feedback, collaboration, or support:
 
 - 🌐 Website: [https://vdraw.ai](https://vdraw.ai)  
-- 📧 Email: **support@vdraw.ai**
+- 📧 Email: **service.vdraw@gmail.com**
 
 ---
 
@@ -81,5 +81,3 @@ We're actively developing VDraw. If you'd like to contribute ideas, open issues,
 This repository is licensed under the MIT License. See `LICENSE.md` for details.
 
 ---
-
-Crafted with ❤️ by [wangshiwei](https://github.com/wangshiwei)
