@@ -1,6 +1,6 @@
 # VDraw - AI-Powered Carousel Post Generator 📲🧠
 
-🔗 **Live Website**: [https://vdraw.ai](https://vdraw.ai)  
+🔗 **Live Website**: [VDraw - AI-Powered Carousel Post Generator](https://vdraw.ai)  
 📦 **GitHub Repository**: [https://github.com/VDraw](https://github.com/VDraw)
 
 ---
